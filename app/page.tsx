@@ -39,7 +39,6 @@ export default function Page() {
             alt="Screenshots of dashboard"
             className="hidden md:block"
           />
-
           <Image
             width={560}
             height={620}
